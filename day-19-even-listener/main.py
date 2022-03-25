@@ -20,7 +20,7 @@ for i, color in enumerate(colors):
 gameEnd = False
 while not gameEnd:
     for i, t in enumerate(turtles):
-        t.forward(random.randint(0, 5))
+        t.forward(random.randint(0, 10))
         if t.xcor() > 250:
             gameEnd = True
             print(f"Winner is: {t.pencolor()} turtle.")
