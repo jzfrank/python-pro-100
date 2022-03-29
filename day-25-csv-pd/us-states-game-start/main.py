@@ -45,9 +45,13 @@ while len(guessed_states) < 50:
         tim.goto(x, y)
         tim.write(answer_state, align="Center", font=FONT)
 
-states_data[states_data.state.apply(
-    lambda x: x not in guessed_states)].\
-    to_csv("missed_cities.csv")
+pd.DataFrame(
+    [state for state in states if state not in guessed_states]
+).to_csv("states_to_learn.csv")
+# states_data[
+#     states_data.state.apply(
+#     lambda x: x not in guessed_states)].\
+#     to_csv("missed_cities.csv")
 
 
 turtle.mainloop()
