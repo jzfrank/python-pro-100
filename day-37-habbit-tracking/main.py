@@ -1,8 +1,9 @@
 import requests 
 import datetime as dt 
 import math
+import os 
 
-TOKEN = 'fdwefh33hehiu13hjkdf234' 
+TOKEN = os.environ.get("API_KEY") 
 USER_NAME = "frankjinzhang"
 GRAPH_ID = "graph1"
 
@@ -38,9 +39,9 @@ graph_post_config = {
 
 print(today.strftime("%Y%m%d"))
 
-# response = requests.post(
-# 	url=graph_endpoint + "/" + GRAPH_ID, 
-# 	json=graph_post_config, headers=headers)
+response = requests.post(
+	url=graph_endpoint + "/" + GRAPH_ID, 
+	json=graph_post_config, headers=headers)
 
 graph_put_config = {
 	'quantity': f"{math.pi}"
@@ -52,9 +53,9 @@ print("DATE:", DATE)
 # 	url=f"{graph_endpoint}/{GRAPH_ID}/{DATE}", 
 # 	json=graph_put_config, headers=headers)
 
-response = requests.delete(
-	url=f"{graph_endpoint}/{GRAPH_ID}/{DATE}",
-	headers=headers)
+# response = requests.delete(
+# 	url=f"{graph_endpoint}/{GRAPH_ID}/{DATE}",
+# 	headers=headers)
 
 print(response.text)
 
