@@ -58,7 +58,7 @@ def write_to_sheet(record):
 
 
 def delete_record(row_num):
-    response = requests.delete(f"{SHEETY_URL}/{row_num}")
+    response = requests.delete(f"{SHEETY_URL}/{row_num}", headers=headers)
     response.raise_for_status()
     # print(json.dumps(response.json(), indent=4))
 
