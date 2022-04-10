@@ -28,6 +28,7 @@ def exercise_text_nlp(exercise_text="ran 3 miles"):
 
 
 SHEETY_URL = "https://api.sheety.co/28317aaac2e1b81628c20171aa1d3eb9/myFakeWorkout/workouts"
+SHEETY_TOKEN = os.environ.get('SHEETY_TOKEN')
 
 
 def write_to_sheet(record):
@@ -41,7 +42,8 @@ def write_to_sheet(record):
     '''
 
     headers = {
-        "Content-Type": "application/json"
+        "Content-Type": "application/json",
+        "Authorization": SHEETY_TOKEN
     }
 
     params = {
