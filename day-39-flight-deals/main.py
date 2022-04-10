@@ -19,7 +19,8 @@ flight_data = FlightData(url, API_KEY)
 # --------- load notification manager ----------
 account_sid = os.environ['TWILIO_ACCOUNT_SID']
 auth_token = os.environ['TWILIO_AUTH_TOKEN']
-from_number = "+15408024366"
+from_number = os.environ["TWILIO_FROM_NUMBER"]
+to_number = os.environ["TWILIO_VERIFIED_NUMBER"]
 notification_manager = NotificationManager(
     account_sid=account_sid, auth_token=auth_token, 
     from_number=from_number)
@@ -47,5 +48,5 @@ for ticket in tickets:
             f"The flight is {best_flight.flight_number}, " \
             f"departs at {best_flight.local_departure}, arrives at {best_flight.local_arrival}"
         print(message)
-        notification_manager.send_message(message=message, to_number="+41765182495")
+        notification_manager.send_message(message=message, to_number=to_number)
         print("-------------------")

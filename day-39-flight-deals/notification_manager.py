@@ -26,8 +26,10 @@ if __name__ == '__main__':
     # and set the environment variables. See http://twil.io/secure
     account_sid = os.environ['TWILIO_ACCOUNT_SID']
     auth_token = os.environ['TWILIO_AUTH_TOKEN']
-    from_number = "+15408024366"
+    from_number = os.environ["TWILIO_FROM_NUMBER"]
+    to_number = os.environ["TWILIO_VERIFIED_NUMBER"]
     notification_manager = NotificationManager(
         account_sid=account_sid, auth_token=auth_token, 
         from_number=from_number)
-    notification_manager.send_message(message="Hi, how its everything going?", to_number="+41765182495")
+    notification_manager.send_message(message="Hi, how its everything going?", 
+                                      to_number=to_number)
