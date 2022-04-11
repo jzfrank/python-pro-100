@@ -14,7 +14,7 @@ class FlightSearch:
             "apikey": self.API_KEY
         }
 
-    def search(self, fly_from, fly_to, date_from, date_to):
+    def search(self, fly_from, fly_to, date_from, date_to, max_stopovers):
         '''
         returns the flights data (direct flight)
         '''
@@ -24,7 +24,7 @@ class FlightSearch:
             "fly_to": fly_to,
             "date_from": date_from,
             "date_to": date_to,
-            'max_stopovers': 0
+            'max_stopovers': max_stopovers
         }
         response = requests.get(self.URL, headers=self.headers, params=param)
         response.raise_for_status()

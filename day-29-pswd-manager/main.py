@@ -4,8 +4,11 @@ from tkinter import messagebox
 from PIL import ImageTk, Image
 from generate_pswd import generate_pswd
 import pyperclip
+import os 
 
 # ---------------------------- SAVE PASSWORD ------------------------------- #
+
+
 def save_pswd():
     website = website_input.get()
     email = email_input.get()
@@ -15,7 +18,7 @@ def save_pswd():
         messagebox.showinfo(title="Oops", message="Please don't leave any fields empty!")
         return
     is_ok = messagebox.askokcancel(title=website, message=f"There are the details entered: \nEmail: {email}"
-                                                  f"\nPassword: {pswd} \n Is it ok to save?")
+                                   f"\nPassword: {pswd} \n Is it ok to save?")
     if not is_ok:
         return
     else:
@@ -36,7 +39,9 @@ def generate_pswd_on_click():
 
 # ---------------------------- UI SETUP ------------------------------- #
 
+
 if __name__ == "__main__":
+    TEST_EMAIL = os.environ["TEST_EMAIL"]
     print("END:", END)
     print(type(END))
     root = Tk()
@@ -58,7 +63,7 @@ if __name__ == "__main__":
 
     email_input = Entry(width=35)
     email_input.grid(column=1, row=2, columnspan=2)
-    email_input.insert(0, "frankjinzhang@gmail.com")
+    email_input.insert(0, TEST_EMAIL)
 
     pswd_label = Label(text="Password:")
     pswd_label.grid(column=0, row=3)
