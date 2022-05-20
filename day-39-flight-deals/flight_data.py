@@ -92,5 +92,5 @@ if __name__ == "__main__":
     # best_flight = flight_data.search_for_best_direct_flight(fly_from, fly_to, date_from, date_to)
     # print(best_flight)
     best_flight = flight_data.search_for_best_flight(fly_from, fly_to, date_from, date_to)
-    with open(f"json_viewer_{fly_from}_{fly_to}.txt", "w") as file:
+    with open(f"env/json_viewer_{fly_from}_{fly_to}.txt", "w") as file:
         file.write(str(json.dumps(best_flight, indent=4)))
