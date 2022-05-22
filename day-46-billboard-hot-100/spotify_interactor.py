@@ -34,7 +34,7 @@ if __name__ == '__main__':
         print(playlist_name + " just created")
     # write to playlist 
     track_urls = []
-    for artist, track in list(singer2song.items()):
+    for artist, track in singer2song.items():
         result = sp.search(q=f"artist:{artist} track: {track} year: {year}", type="track", limit=1)
         try:
             external_url = result['tracks']['items'][0]["external_urls"]["spotify"]
