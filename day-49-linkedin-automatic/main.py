@@ -24,7 +24,7 @@ button.click()
 time.sleep(0.3)
 
 driver.get(url="https://www.linkedin.com/jobs/search/?f_AL=true&f_E=2&geoId="
-           "106693272&keywords=web%20developer&location=Switzerland")
+           "106693272&keywords=sde&location=Switzerland")
 
 time.sleep(1)
 
