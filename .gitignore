@@ -130,3 +130,11 @@ dmypy.json
 
 # Mac OS
 *.DS_Store
+
+# Images
+*.png
+*.svg
+*.jpg
+*.jpeg
+*/assets
+
