@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Edit Rating</title>
+</head>
+<body>
+  {% if book is not none %}
+  <h1>Book Name: {{book.title}}</h1>
+  <h2>Rating: {{book.rating}}/10</h2>
+
+  <form method="POST" action={{url_for('edit', id=book.id)}}>
+    <input name="rating" placeholder="New Rating" />
+    <button type="submit">Change Rating</button>
+  </form>
+  {% else %}
+  <h1>Book Not Found</h1>
+  {% endif %}
+</body>
+</html>
