@@ -5,6 +5,7 @@ from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired
 import requests
+import os
 
 
 app = Flask(__name__)
@@ -131,7 +132,7 @@ def add():
         url = f"https://api.themoviedb.org/3/search/movie?query={title}&include_adult=false&language=en-US&page=1"
         headers = {
             "accept": "application/json",
-            "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwZWM5NmY2MmRiY2ZmMGZjZWRiNTFmZWU5ZjhhYjBhNSIsInN1YiI6IjYzMjgzOTE3MjBhZjc3MDA3YmZjZWFlZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Cj8RKbhYcdQ8FVG1YGivD-OZelCkivVp_ZISVvjFHNk"
+            "Authorization": f"Bearer {os.environ.get('MOVIE_DB_TOKEN')}"
         }
         response = requests.get(url, headers=headers)
         res = response.json()
@@ -144,7 +145,7 @@ def add_movie_by_id(movie_id):
     url = f"https://api.themoviedb.org/3/movie/{movie_id}?language=en-US"
     headers = {
         "accept": "application/json",
-        "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwZWM5NmY2MmRiY2ZmMGZjZWRiNTFmZWU5ZjhhYjBhNSIsInN1YiI6IjYzMjgzOTE3MjBhZjc3MDA3YmZjZWFlZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Cj8RKbhYcdQ8FVG1YGivD-OZelCkivVp_ZISVvjFHNk"
+        "Authorization": f"Bearer {os.environ.get('MOVIE_DB_TOKEN')}"
     }
     response = requests.get(url, headers=headers)
     res = response.json()
