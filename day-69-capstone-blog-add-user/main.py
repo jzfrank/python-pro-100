@@ -13,6 +13,10 @@ from flask_gravatar import Gravatar
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField, PasswordField
 from wtforms.validators import DataRequired, URL
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 def page_not_found(e):
@@ -21,7 +25,7 @@ def page_not_found(e):
 
 login_manager = LoginManager()
 app = Flask(__name__)
-app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
+app.config['SECRET_KEY'] = os.getenv("SECRET_KEY")
 ckeditor = CKEditor(app)
 login_manager.init_app(app)
 app.register_error_handler(404, page_not_found)
@@ -127,7 +131,7 @@ def register():
             new_user = User(
                 email=form.email.data,
                 password=generate_password_hash(
-                    form.password.data, method='pbkdf2:sha256', salt_length=8),
+                    form.password.data, method=os.getenv("ENCRYPT_METHOD"), salt_length=os.getenv("SALT_LENGTH")),
                 name=form.name.data
             )
             # add new user to database
@@ -139,7 +143,7 @@ def register():
     return render_template("register.html", form=form)
 
 
-@app.route('/login', methods=["GET", "POST"])
+@ app.route('/login', methods=["GET", "POST"])
 def login():
     form = LoginForm()
     if form.validate_on_submit():
@@ -163,13 +167,13 @@ def login():
     return render_template("login.html", form=form)
 
 
-@app.route('/logout')
+@ app.route('/logout')
 def logout():
     logout_user()
     return redirect(url_for('get_all_posts'))
 
 
-@app.route("/post/<int:post_id>", methods=["GET", "POST"])
+@ app.route("/post/<int:post_id>", methods=["GET", "POST"])
 def show_post(post_id):
     form = CommentForm()
     requested_post = BlogPost.query.get(post_id)
@@ -200,18 +204,18 @@ def show_post(post_id):
     return render_template("post.html", post=requested_post, form=form, comments=comments)
 
 
-@app.route("/about")
+@ app.route("/about")
 def about():
     return render_template("about.html")
 
 
-@app.route("/contact")
+@ app.route("/contact")
 def contact():
     return render_template("contact.html")
 
 
-@app.route("/new-post", methods=["GET", "POST"])
-@login_required
+@ app.route("/new-post", methods=["GET", "POST"])
+@ login_required
 def add_new_post():
     form = CreatePostForm()
     if form.validate_on_submit():
@@ -230,8 +234,8 @@ def add_new_post():
     return render_template("make-post.html", form=form)
 
 
-@app.route("/edit-post/<int:post_id>")
-@admin_only
+@ app.route("/edit-post/<int:post_id>")
+@ admin_only
 def edit_post(post_id):
     post = BlogPost.query.get(post_id)
     edit_form = CreatePostForm(
@@ -253,8 +257,8 @@ def edit_post(post_id):
     return render_template("make-post.html", form=edit_form)
 
 
-@app.route("/delete/<int:post_id>")
-@admin_only
+@ app.route("/delete/<int:post_id>")
+@ admin_only
 def delete_post(post_id):
     post_to_delete = BlogPost.query.get(post_id)
     db.session.delete(post_to_delete)
