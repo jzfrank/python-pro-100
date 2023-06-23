@@ -1,0 +1,828 @@
+Rank,Major,Early Career Pay,Mid-Career Pay
+1,Petroleum Engineering,93200,187300
+2,Operations Research & Industrial Engineering,84800,170400
+3,Electrical Engineering & Computer Science (EECS),108500,159300
+4,Interaction Design,68300,155800
+5,Public Accounting,59800,147700
+6,Operations Research,83500,147400
+7,Applied Economics and Management,66100,146400
+8,Business Computing (BC),73000,143600
+9,Actuarial Mathematics,64300,143400
+10,Electrical Power Engineering,76100,142600
+11,Information & Computer Science,58600,140900
+12,Aeronautics & Astronautics,77600,139600
+13,Systems Engineering,77700,139200
+14,Econometrics,64200,139000
+15,Pharmacy,68600,138700
+16,Aerospace Studies,55800,136600
+17,Building Science,53800,135900
+17,Chemical Engineering,76900,135900
+19,Cognitive Science,68700,135200
+20,Actuarial Science,67700,134400
+21,Political Economy,65100,133500
+22,Computer Systems Engineering,79000,133200
+23,Electrical & Computer Engineering (ECE),78100,131600
+24,Computer Science (CS) & Engineering,79400,131300
+24,Marine Engineering,79900,131300
+26,Aeronautical Engineering,74700,131100
+27,Computer Engineering (CE),79000,131000
+28,Naval Architecture & Marine Engineering,74400,130700
+29,Entrepreneurship & Marketing,51400,129800
+30,Corporate Accounting & Finance,65200,129700
+31,Mechatronics,72800,129600
+32,Nuclear Engineering,76400,129400
+33,Electrical Engineering (EE),75600,127700
+33,Foreign Affairs,54800,127700
+35,Marine Transportation Management,71100,127500
+36,Mechanical & Aeronautical Engineering,70900,126900
+37,Welding Engineering,81000,126600
+38,Instrumentation & Control Engineering,73100,126400
+39,Computational & Applied Mathematics,75500,126000
+40,Electrical & Electronics Engineering (EEE),74700,125800
+41,Aerospace Engineering,74300,125700
+42,Astronomy,66600,125400
+42,Optical Science & Engineering,71000,125400
+42,Quantitative Business Analysis,74000,125400
+45,Computer Science (CS) & Mathematics,70500,125100
+46,Industrial & Systems Engineering,73100,124800
+47,Economics and Mathematics,68200,124100
+48,Biomedical Engineering (BME),71300,123600
+48,Managerial Economics,65200,123600
+50,Computer Science (CS),75100,123400
+50,Physics & Astronomy,56500,123400
+52,Petroleum Land Management,59300,123100
+52,Bioscience,49200,123100
+54,Electronics & Communications Engineering,67400,122900
+55,Control Engineering,69700,122800
+56,Pharmacology,57700,122700
+57,Business Analysis,63200,122300
+58,Aeronautical Science & Engineering,56000,122200
+58,Metallurgical Engineering,81800,122200
+60,Engineering Science,67900,122100
+61,Applied Mathematics,68300,122000
+62,Chemical & Biomolecular Engineering,76800,121900
+63,Materials Science,67100,121800
+64,Engineering,69900,121700
+65,Ocean Engineering (OE),69400,121400
+66,Bioengineering (BioE),70900,121300
+67,Aeronautical/Aerospace Engineering Technology,76900,121200
+68,Integrated Science & Technology,65200,121100
+69,Operations Management & Information Systems,66100,120900
+70,Software Engineering,75000,120000
+71,Physics,65900,119700
+72,Quantitative Economics,65000,119600
+73,Computer & Information Science,63600,119500
+74,Geophysics,58000,119000
+75,Accounting & Economics,65900,118900
+76,Physician Assistant Studies,95900,118500
+77,Mining Engineering,78800,118300
+78,Construction Engineering Management,68800,118200
+79,Mechanical Engineering (ME),71000,117600
+80,Materials Science & Engineering,72700,117500
+81,Engineering Mechanics,75500,117400
+81,Industrial Engineering (IE),71900,117400
+81,International Business & Finance,61400,117400
+84,Accounting & Computer Systems,63000,117300
+85,Business & Information Technology (IT),60100,116900
+86,Applied Physics,67300,116500
+87,International Economics,58700,116300
+88,Business & Economics,59600,116200
+89,Ceramic Engineering,69200,115700
+89,Economics,62000,115700
+89,Pharmaceutical Sciences (PS),52800,115700
+92,Telecommunications Engineering,66400,115400
+93,Information & Decision Sciences,65200,115200
+93,Materials Engineering,72300,115200
+93,Paper Science,77000,115200
+96,Asian Studies,47700,115100
+96,Structural Engineering (SE),67800,115100
+98,Industrial Distribution,63600,115000
+99,Management Information Systems (MIS),65000,114100
+100,Electronics Engineering,69600,113900
+100,Finance & Economics,62600,113900
+102,Medical Science,52000,113800
+102,Japanese Studies,51500,113800
+102,Automotive Engineering,67300,113800
+105,Information Management,64300,112800
+106,Management Science,64600,112700
+106,Mechanical,70200,112700
+108,Construction Engineering,67300,112500
+109,Finance & Investments,64100,112400
+109,Mathematics & Statistics,63100,112400
+111,Information Systems Management,59200,112300
+112,Construction Project Management,61100,112200
+112,Engineering Management,69000,112200
+112,Packaging Science,70000,112200
+115,Industrial Engineering & Management,68300,112000
+116,Engineering Physics,70500,111800
+117,Energy Management,72300,111700
+118,Aeronautical Science,57700,111600
+119,Government,55100,111200
+120,Software Applications & Programming,59300,110800
+121,Astrophysics,69300,110700
+122,Bioenvironmental Science,47700,110500
+123,Japanese Language,53300,110300
+124,Business Economics,58400,110200
+124,Finance & Real Estate,63000,110200
+126,Manufacturing Engineering,69300,110000
+127,Atmospheric Science,48700,109900
+128,Cybersecurity,65600,109800
+129,Information Security & Assurance,61400,109300
+130,Medicine,60600,109200
+131,Civil Engineering (CE),65000,109000
+132,Environmental Health & Safety Management,61100,108800
+133,Mathematics,63500,108700
+134,Applied Economics,61400,108600
+135,Construction Science,67400,108500
+135,Political Communication,48800,108500
+137,Marketing & International Business,52500,108400
+137,Software Development,65500,108400
+139,Biochemistry & Molecular Biology,53900,108100
+140,Computing,63500,108000
+140,Construction Management,63200,108000
+142,Accounting & Taxation,55600,107800
+142,Building Construction (BC),67200,107800
+142,International & Comparative Politics,45700,107800
+145,Civil & Environmental Engineering,65300,107500
+146,Business Information Systems,65000,107400
+147,Financial Economics,63300,107200
+147,Sales & Business Marketing,55900,107200
+149,Plastics Engineering,68400,107100
+150,Information Technology Management,63400,107000
+151,Polymer Science & Engineering,74500,106900
+152,Informatics,70300,106800
+153,Computer Management Information Systems (CMIS),55700,106600
+153,Information Systems (IS),63900,106600
+155,Agricultural Economics,55600,106300
+156,Data Processing,65600,106200
+157,European Studies,47500,106100
+158,Biosystems Engineering,64700,106000
+158,Nuclear Engineering Technology (NET),83500,106000
+160,Economics & Political Science,57100,105700
+160,Global & International Studies,50000,105700
+162,Organic Chemistry,44500,105600
+163,Industrial Hygiene,58600,105500
+163,Safety Science,62400,105500
+165,Commerce,66800,105400
+165,Rhetoric,51600,105400
+167,Business Computer Information Systems (BCIS),64000,105300
+168,Finance,60200,105200
+169,Plastics Engineering Technology,66900,105100
+170,Molecular Biology,54100,105000
+171,Environmental Engineering,62600,104800
+171,International Management,54100,104800
+173,Computer Information Systems,59400,104700
+174,Corporate Finance,63600,104300
+175,Genetics,52200,104100
+175,International Business,55300,104100
+177,Agricultural Engineering (AE),63100,104000
+178,Consumer Economics,53700,103800
+179,Finance & Marketing,56800,103700
+180,Computer Information Systems (CIS),60500,103500
+181,Business Finance,57200,103300
+182,Psychobiology,49600,103100
+182,Strategic Management,66200,103100
+182,Construction Trades,61900,103100
+185,Operations Management (OM),61500,103000
+186,Entrepreneurship & Leadership,57100,102900
+187,Electrical Engineering Technology (EET),66300,102800
+188,Computer Science & Information Technology,66000,102700
+188,Food Marketing,56300,102700
+190,International Marketing,59000,102600
+190,Network Engineering,60700,102600
+192,Building Construction Management,61300,102400
+193,Engineering Technology (ET),58400,102300
+194,International Relations,52800,102200
+194,Management & Finance,56800,102200
+194,Information Security,66400,102200
+197,Business Operations,63500,102100
+198,Industrial Management,57800,102000
+199,Architectural Engineering,65000,101900
+199,Hotel Administration,64900,101900
+201,Manufacturing,57600,101500
+202,Agricultural Economics & Business,54900,101400
+203,Web Development,56400,101300
+204,Aviation,54000,101200
+204,Telecommunications Management,55000,101200
+206,Property Management,55200,101000
+207,Comparative Literature,48100,100900
+208,Construction Science & Management,64700,100800
+209,Biotechnology,53100,100700
+210,Industrial & Labor Relations,69800,100600
+210,Real Estate,59900,100600
+212,Mechanical Engineering Technology (MET),64200,100400
+213,Labor Relations,53000,100300
+214,Electronics,57500,100200
+215,Biochemistry (BCH),50400,99900
+215,Politics,53000,99900
+217,Accounting & Auditing,57800,99800
+218,Chinese Language,54200,99600
+219,Information Science (IS),66300,99500
+220,East Asian Studies,49800,99400
+221,Accounting & Finance,59200,99300
+221,Network Security,62300,99300
+223,Information Technology (IT),59100,99200
+224,Aviation Management,50900,99100
+224,Occupational Health and Safety,59900,99100
+226,Agribusiness,50700,98900
+226,Business & Marketing,51000,98900
+226,Computer Engineering Technology (CET),63000,98900
+229,Computer Security,68100,98700
+230,Operations & Supply Chain Management,61300,98600
+231,Entomology,45900,98500
+232,Music Production & Engineering,43100,98400
+232,Industrial Engineering Technology,67200,98400
+234,Logistics & Supply Chain Management,59000,98300
+234,Supply Chain Management,61700,98300
+234,Accounts,59800,98300
+237,Economics & Management,54400,98200
+237,Environmental Policy Analysis & Planning,51000,98200
+237,Physical Therapy,55500,98200
+240,European History,52300,98000
+240,Robotics & Automation,66100,98000
+242,Geological Engineering,61700,97900
+242,Manufacturing Technology,59900,97900
+244,Chemistry,51600,97500
+245,Business Logistics & Transportation,56400,97400
+246,Food Science & Technology,53100,97300
+247,City & Regional Planning,51800,97200
+247,Civil Engineering Technology (CET),58300,97200
+249,Electronics Engineering Technology (EET),64300,97100
+249,English & Psychology,42600,97100
+249,Finance & Banking,55300,97100
+249,Mechanical Design,60900,97100
+253,Applied Technology,55500,97000
+254,Marketing & Management,50000,96900
+255,Technical & Scientific Communication,50700,96800
+256,Financial Planning,54000,96600
+256,Organizational Behavior,57000,96600
+256,Marketing,51700,96600
+259,Dairy Science,51200,96200
+259,Project Management,56800,96200
+261,Government & International Politics (GVIP),51300,96100
+261,Latin American Studies,46700,96100
+263,Industrial Design (ID),55100,95900
+263,Web Design & Development,53100,95900
+265,Computing & Information Systems (CIS),58100,95800
+265,Electromechanical Engineering,70500,95800
+265,Industrial Technology (IT),62200,95800
+265,Information Technology (IT) & Systems,61100,95800
+269,Biopsychology,53300,95700
+269,Government & Politics,52400,95700
+271,Microbiology & Immunology,54900,95400
+271,Chemistry & Environmental Science,48200,95400
+273,Interactive Media Design,54000,95300
+273,Risk Management,58500,95300
+275,Cell Biology,50100,95200
+276,Aeronautics,62800,95100
+277,Welding Engineering Technology,74700,95000
+278,Finance & Management Information Systems,63900,94800
+279,Computer Science (CS) & Business,81100,94600
+280,Environmental Science & Policy,49500,94500
+280,Marketing & Communications,49600,94500
+280,Safety Management,60100,94500
+283,Business Technology Management,57400,94400
+283,Computer Networking Systems,55600,94400
+285,Biomedical Sciences,43600,94300
+285,Philosophy,52600,94300
+285,Sales & Marketing,52700,94300
+285,Manufacturing Engineering Technology,66000,94300
+289,Environmental Health & Safety,57600,94200
+290,Organizational Psychology,51200,94100
+291,Industrial Psychology,50000,94000
+291,Political Science,50700,94000
+291,Real Estate Development,57100,94000
+294,Social Ecology,49000,93700
+295,Risk Management & Insurance,59500,93600
+296,Radiation Therapy,68400,93400
+297,French Literature,46400,93300
+297,Occupational Therapy (OT),54100,93300
+299,Advertising,47200,93200
+300,Accounting,54800,93100
+301,Geology,50400,93000
+301,Strategic Communication,47100,93000
+301,Transportation & Logistics Management,57600,93000
+304,Financial Accounting,56100,92900
+305,Cell & Molecular Biology,51900,92800
+305,Industrial Safety,55200,92800
+305,Insurance,56000,92800
+305,Manufacturing Management,64000,92800
+305,Networks & Telecommunications,54300,92800
+310,Labor Studies,46600,92600
+310,Digital Media Design,46700,92600
+310,Advertising & Marketing Communications,48300,92600
+313,Cinema Studies,47900,92500
+313,Electronic & Computer Technology,63800,92500
+313,Marketing Communication,45700,92500
+316,Construction Technology,59100,92400
+317,Architecture,51000,92300
+318,Applied Statistics,65900,92200
+319,Biological Sciences,49300,92100
+319,Food Science,52500,92100
+319,Urban & Regional Planning,51800,92100
+322,Marketing Management,51300,92000
+323,Computer & Network Administration,56800,91900
+324,Applied Computer Science,66100,91800
+325,Sales,61500,91600
+326,Environmental Design,47700,91400
+326,Hotel Management,49100,91400
+328,Advertising Design,52700,91300
+328,Digital Arts,45600,91300
+328,Financial Management,54300,91300
+331,Electronic Systems Technology (EST),81000,91200
+332,Italian Language,51400,91100
+333,German Studies,50000,91000
+334,Quality Management,57400,90800
+335,Microbiology,48400,90300
+335,Entrepreneurship,54800,90300
+337,Interactive Media,52700,90200
+337,Global Business Management,55900,90200
+337,Network Systems Administration,57900,90200
+337,Police Science,55400,90200
+341,Hydrology,48700,90100
+342,Business Data Analysis,64700,90000
+342,Database Management,65900,90000
+342,Spanish Literature,51100,90000
+345,Business Technology,52800,89900
+346,Business Management & Marketing,48900,89800
+347,Technical Management,64400,89700
+348,Human Biology,51100,89600
+349,Meteorology,46200,89500
+350,Computer Graphics Technology (CGT),49000,89200
+350,Urban Planning,50500,89200
+352,Aviation Technology,58100,89100
+352,Environmental Health,50000,89100
+354,Agricultural Science,48900,88900
+354,Agronomy,50200,88900
+354,International Studies,50000,88900
+357,Design,52800,88800
+358,Applied Science,46400,88700
+358,Architectural Engineering Technology,52200,88700
+358,German Language,50700,88700
+361,Technology,56200,88600
+362,Advertising & Promotion,46100,88500
+363,Pre-law,46800,88400
+364,Digital Media,47300,88200
+365,Biological Anthropology,46200,88100
+365,Personal Financial Planning,53800,88100
+367,Professional Pilot Education,63700,88000
+367,Textile Technology,54000,88000
+367,Web & Digital Media Development,52300,88000
+370,Entrepreneurial Studies,48700,87900
+371,Fashion Design,47500,87700
+372,Retailing,51300,87600
+373,Business Communication,50900,87300
+373,Environmental Science,49100,87300
+375,Product Design Engineering,65500,87200
+376,English Literature,47700,87000
+376,Logistics,57600,87000
+378,Math & Science,55600,86900
+379,International Trade & Business,54800,86800
+379,Pre-Medicine,50800,86800
+379,Speech & Drama,37500,86800
+379,Toxicology,44600,86800
+383,Advertising & Marketing,49000,86700
+383,Geographic Information Systems (GIS) & Spatial Analysis,54000,86700
+383,Marketing & Mass Communications,45400,86700
+383,Welding Technology,48400,86700
+387,General Business,50200,86600
+388,Construction Engineering Technology,55800,86400
+388,Architectural Studies,45400,86400
+390,Aviation Maintenance Technology,51000,86300
+391,Communication Studies & Journalism,44800,86200
+391,Management,51600,86200
+393,General Science,49100,86100
+393,Magazine Journalism,46800,86100
+395,Electronics & Computer Technology,55600,86000
+395,Theatre & Drama Studies,44800,86000
+397,Animation,45000,85900
+397,Biology & Chemistry,49200,85900
+397,Diagnostic Medical Ultrasound,67700,85900
+397,History & Politics,49500,85900
+397,Public Affairs,52700,85900
+397,Romance Languages,53000,85900
+397,Physiology,49300,85900
+404,Corporate Communications,48500,85700
+404,International Affairs,51600,85700
+404,Nursing Science,66800,85700
+404,Organizational Development,53800,85700
+404,Textile & Apparel Studies,47100,85700
+409,Business Administration,52800,85600
+409,Business Administration & Accounting,52400,85600
+409,Philosophy & Religion,43800,85600
+412,Architectural Design,47700,85400
+413,Textile Design,50000,85200
+413,Interpersonal & Organizational Communication,42400,85200
+415,Geographic Information Systems (GIS),50000,85100
+416,Business Management,51700,85000
+417,Linguistics,52100,84900
+418,French Language,49600,84800
+419,Communication,48000,84700
+419,Neuroscience,51800,84700
+421,Business Management & Human Resources Management (HRM),46800,84600
+421,Journalism & Mass Communication,46300,84600
+423,Accounting & Management,55500,84500
+424,Sociology & Organizational Studies,53500,84300
+425,Crop Science,48700,84200
+425,French Studies,52400,84200
+425,Writing,44200,84200
+425,Nursing,65000,84200
+429,History,47800,84100
+430,Biology,47100,84000
+430,Land Surveying,51900,84000
+432,Architectural Technology,46700,83900
+432,Health Care,44400,83900
+432,Integrated Marketing Communications,47000,83900
+435,Agriculture,47700,83800
+436,Digital Design,50000,83600
+436,Marketing & Advertising,49300,83600
+436,Organizational Communication,46400,83600
+439,Visual Effects & Motion Graphics,48100,83400
+440,Public Relations & Communication,45700,83300
+440,General & Strategic Management,51200,83300
+442,Foreign Languages,48400,83100
+442,Retail Merchandising,50900,83100
+444,Agribusiness Management,47700,83000
+444,Global Business,55800,83000
+444,Professional & Technical Writing,48500,83000
+447,Computer Art,40400,82900
+447,Environmental Management,50200,82900
+447,Environmental Studies,48500,82900
+447,Journalism,45900,82900
+447,Travel Industry Management,52600,82900
+452,International Development Studies,47700,82800
+452,Natural Sciences,45100,82800
+452,Retail & Consumer Science,51800,82800
+452,Literature,46800,82800
+456,Bachelor in Science Nursing,64000,82700
+456,History & Political Science,50600,82700
+456,Museum Studies,38900,82700
+459,Computer Information Management,49400,82600
+459,Dental Hygiene,72700,82600
+459,Law,54300,82600
+459,Network Technology,59800,82600
+463,Media Studies,50700,82400
+464,Environmental Geography,50200,82300
+465,Law Enforcement,46700,82200
+466,Nuclear Medicine,60300,81900
+466,Bachelor of Science in Nursing,63800,81900
+468,Computer Animation,46800,81800
+468,Landscape Architecture,51500,81800
+468,Publishing,46300,81800
+471,Interior Architecture,47600,81500
+472,Diagnostic Medical Sonography,64300,81400
+472,Environmental & Natural Resource Economics,52400,81400
+472,Public Relations (PR),45600,81400
+472,Workforce Education & Development,59900,81400
+476,American History (United States),50900,81300
+477,Drama,47400,81100
+478,Management (MGT),47000,81000
+479,Merchandising Management,46800,80900
+480,Environmental Biology,45000,80800
+481,Accounting & Business,52400,80700
+482,Automotive Technology & Service Management,48800,80500
+482,Speech Communication,46700,80500
+484,Allied Health,44800,80400
+485,Agricultural Systems Technology,60500,80300
+485,Emergency Management,50900,80300
+485,Network Administration,48700,80300
+488,Communication Management,46000,80200
+489,Historic Preservation,43400,80000
+490,Broadcast Journalism,42900,79900
+490,Broadcast & Cinematic Arts,42800,79900
+492,Automotive Technology,48100,79800
+492,Business Management & Administration,51400,79800
+494,Agricultural Business,52700,79700
+494,Technology Management,56400,79700
+496,Global Studies,51200,79600
+496,Professional Studies,42800,79600
+498,Interpersonal Communications,45000,79500
+499,Forestry,45900,79400
+499,Homeland Security,49200,79400
+501,Ancient History,46000,79300
+501,Botany,42600,79300
+501,Geography,49700,79300
+504,Computer Aided Design (CAD),48700,79200
+504,Nutrition Science,49500,79200
+506,Acting,44200,79100
+506,Public Management,50200,79100
+508,Nuclear Medicine Technology,61700,79000
+509,Apparel & Textile Manufacture,48300,78900
+509,English Language & Literature,46400,78900
+509,Urban Studies,51500,78900
+512,Mass Communication,44800,78800
+513,Forestry Management,48600,78700
+513,Radio/Television & Film Production,45700,78700
+515,Hospital Management,53200,78600
+516,Human Resources Management (HRM),47900,78500
+517,Marine Science,46100,78400
+518,American Sign Language Interpreting,43100,78300
+518,English & History,45700,78300
+518,English Language,44600,78300
+521,Cytotechnology,61900,78200
+521,Geosciences,48700,78200
+521,Hospital Administration,51200,78200
+524,Film Production,44600,78100
+524,Marine Biology,43300,78100
+526,Zoology,42100,77900
+527,Communication Design,51700,77800
+528,Leadership,47200,77500
+528,Music Technology,44800,77500
+528,Musicology,40000,77500
+528,Technical Writing,53300,77500
+532,Agricultural Communication,44600,77400
+532,Logistics Management,56300,77400
+534,German Language & Literature,49400,77300
+535,Administration,44600,77100
+535,Apparel Merchandising,47600,77100
+535,Computer Aided Drafting & Design (CADD),49100,77100
+535,Organizational Leadership & Supervision,49600,77100
+535,Printing Technology,46200,77100
+535,Spanish Language,47700,77100
+541,Multimedia,44700,77000
+542,Spanish Language Teacher Education,45500,76900
+542,Public Administration,46700,76900
+542,Human Nutrition,48600,76900
+545,Audio Engineering,48300,76800
+545,Graphics Technology & Management,39500,76800
+545,Physical Anthropology,52900,76800
+548,Organizational Leadership,50500,76700
+549,Environmental Health Science,53800,76600
+549,Health Sciences,44600,76600
+551,Journalism & Electronic Media,45200,76500
+552,Religious Studies,43900,76300
+553,Art History,46600,76200
+553,Radiologic Science,57600,76200
+555,3D Animation,51800,76000
+556,Culture Studies,48100,75900
+556,Merchandising,53100,75900
+558,Administrative Management,52700,75800
+558,Human Resources (HR),47300,75800
+558,Liberal Arts,44500,75800
+561,Adult Education & Training,48700,75600
+561,Fashion Merchandising,46900,75600
+561,Health & Fitness,39800,75600
+564,Natural Resources,47400,75500
+564,Organizational Management,48800,75500
+566,Modern Languages,50300,75400
+566,Natural Resource Management,46500,75400
+566,Retail Management,50100,75400
+566,Sociology & Anthropology,44500,75400
+570,Creative Writing,45300,75200
+571,Criminal Justice Administration,45700,75100
+572,Ethnic Studies,47500,74900
+572,Philosophy & Religious Studies,49300,74900
+572,Radiology,54800,74900
+575,Medical Laboratory Technology,56900,74400
+575,Sports Management,45400,74400
+577,Anthropology & English,48000,74300
+577,Broadcast Communication,40000,74300
+577,Criminology,44700,74300
+577,Earth Science,50000,74300
+577,Media & Technology,45200,74300
+577,Visual Communications,45400,74300
+583,Advertising & Graphic Design,46800,74200
+583,Applied Behavior Analysis,38700,74200
+583,Psychology,44700,74200
+586,Applied Management,45500,74100
+586,Hotel & Restaurant Management,47300,74100
+588,Anthropology,46400,73900
+589,Arts Management,39400,73800
+589,Diagnostic Medical Imaging,60600,73800
+591,Communication Arts,42400,73600
+591,Middle Eastern Studies,57100,73600
+591,Radiologic Technology,55200,73600
+591,Painting & Printmaking,34700,73600
+595,Cardiopulmonary Science,48900,73400
+595,Human Relations,45000,73400
+597,Humanities,48500,73200
+598,Health Care Administration,45800,73100
+599,Health Care Management,46700,73000
+599,Life Sciences,53100,73000
+601,Ecology,46400,72900
+601,Media Arts,46500,72900
+603,Respiratory Care,54800,72800
+604,Art & Design,45100,72700
+604,Health Information Management,49000,72700
+604,Hospitality Management,46400,72700
+607,Health Teacher Education,37900,72600
+607,Sports Medicine,50100,72600
+607,Multimedia & Web Design,50200,72600
+610,Sociology,46200,72500
+611,Liberal Studies,44300,72400
+612,Interior Design,45100,72300
+612,Medical Laboratory Science,55600,72300
+612,Secondary Education,44600,72300
+615,Child Psychology,38900,72200
+615,Exercise Physiology,44100,72200
+615,Radiography,55300,72200
+618,Archaeology,45900,72100
+618,Art Administration,40200,72100
+618,Hotel & Restaurant Tourism,44300,72100
+618,Illustration,45200,72100
+622,Arts & Science,45700,71900
+622,Health,44200,71900
+622,Turfgrass Management,53100,71900
+625,Animal Science & Management,44200,71800
+626,SocialStudies,45800,71700
+627,Human Resources Development,48600,71600
+627,Speech Pathology & Audiology,44100,71600
+629,Clinical Laboratory Science,55100,71500
+629,Forensic Science,46000,71500
+629,Health Administration,42700,71500
+632,Geomatics,52300,71400
+632,Media Communication,47000,71400
+634,Health Management,45100,71300
+634,Commercial Photography,43800,71300
+636,Fashion Design & Marketing,45300,71100
+636,Mass Media,40300,71100
+638,Medical Technology,56500,71000
+639,Respiratory Therapy,54500,70900
+640,Theater,44600,70700
+641,Forensic Psychology,43000,70600
+641,Kinesiology,44800,70600
+643,Performing Arts,45700,70500
+643,Psychology & Social Behavior,45800,70500
+643,Religion,44400,70500
+643,Radio & Television,43100,70500
+647,Technology Teacher Education,47700,70400
+648,Educational Studies (ED),40300,70200
+648,Music,44300,70200
+648,Business Leadership,50100,70200
+651,Drafting & Design,51000,70100
+651,Plant Sciences,48000,70100
+653,Criminal Justice,42800,69800
+653,Web Design,49900,69800
+655,Graphic Design,45100,69700
+656,Nutrition,48100,69600
+656,Nutrition & Dietetics,50800,69600
+658,Missions,41300,69500
+659,Dramatic Art,41400,69400
+660,Fashion Marketing & Management,47700,69100
+661,Interdisciplinary Studies (IS),44600,68900
+662,Hospitality & Tourism,44200,68800
+662,Human Ecology,42100,68800
+662,Ornamental Horticulture,46000,68800
+662,Physical Therapist Assistant Studies,49900,68800
+662,Public Health (PH),46000,68800
+667,Art Therapy,41100,68600
+667,Dietetics,51300,68600
+667,Landscape Management,52300,68600
+670,Applied Sociology,42200,68500
+670,Fine Arts,43200,68500
+670,Modern Language Spanish,43800,68500
+670,Women's Studies,45200,68500
+670,Social & Criminal Justice,44800,68500
+675,Animal Science,41200,68300
+675,New Media,46000,68300
+675,Textiles & Clothing,45100,68300
+678,Event Management,41700,68200
+679,Family & Consumer Science,42600,68000
+680,Speech-Language Pathology,44100,67900
+681,Technical Theatre,41000,67600
+682,Education,44100,67500
+682,Foods & Nutrition,47000,67500
+682,Recreation Management,42300,67500
+685,Business & Healthcare Management,46900,67300
+686,Agricultural Teacher Education,53500,67100
+687,Music Composition,44000,66900
+688,Art,43400,66700
+688,Psychology & Sociology,42800,66700
+690,Drawing & Painting,42800,66600
+691,Nonprofit Management,42300,66300
+692,Small Business Management,47100,66200
+693,Behavioral Science,43000,66000
+694,Horticulture & Agronomy,52500,65900
+695,Health Services Administration,42700,65800
+695,Multidisciplinary Studies,41800,65800
+695,Restaurant & Food Service Management,43900,65800
+698,Consumer Affairs,51000,65700
+699,Training and Development,52600,65600
+699,Health & Exercise Science,41700,65600
+699,Electronic Media,45300,65600
+702,Environmental Resource Management,48700,65500
+703,Theatre Arts,43500,65300
+704,Applied Linguistics,46800,65200
+705,African American & African Studies,46400,65100
+705,Exercise & Sports Science,42600,65100
+705,General Studies,43600,65100
+705,Justice Studies,45300,65100
+705,Video Production,42800,65100
+710,Graphic Arts,42700,64900
+710,Physical Education Teaching,42200,64900
+712,Health Services Management,41600,64800
+712,Physical Education & Exercise Science,44100,64800
+712,Drawing,37400,64800
+715,Exercise Science,41400,64700
+716,Printmaking,38400,64300
+716,Sports Administration,43300,64300
+716,Theology,42800,64300
+719,Interior Design & Merchandising,43700,64200
+719,Recreation & Leisure Studies,40300,64200
+721,Human Development,43700,64100
+721,Music Industry,45800,64100
+721,Wildlife Management,39700,64100
+721,Supervision & Management,41700,64100
+725,Health & Wellness,40100,64000
+725,Culinary Arts & Food Service Management,41300,64000
+725,Mortuary Science,43500,64000
+728,Clinical Psychology,43000,63900
+728,Community Health Education,42600,63900
+728,Dance,45100,63900
+731,Speech Pathology,42800,63700
+732,Gender Studies,45500,63600
+732,Secondary English Teacher Education,42000,63600
+734,Photography,43800,63500
+735,English Teacher Education,43300,63100
+735,Paralegal Studies,39600,63100
+735,Social Studies Teacher Education,43400,63100
+738,Teaching English as a Second Language (ESL),42800,63000
+738,Music Teacher Education,42000,63000
+740,Health Promotion,42300,62800
+740,Recording Arts,44800,62800
+742,Photojournalism,41900,62600
+743,Recreation Administration,47000,62500
+744,Radio Broadcasting,46300,62400
+745,Sculpture,40300,62200
+746,Painting,40700,62000
+746,Psychology & Social Sciences,42600,62000
+748,Health & Physical Education Teaching,38700,61900
+749,Organizational Administration,45000,61800
+750,Tourism Management,43100,61600
+750,Instrumental Music Teacher Education,41700,61600
+752,Emergency Medical Services (EMS),44200,61400
+753,Community Health,45400,61300
+754,Health & Human Performance,38100,61100
+755,Music Therapy,43100,60700
+756,Social Services,39900,60500
+757,Rehabilitation Services,35800,60200
+758,Horticulture,43000,60100
+759,University Studies,42400,60000
+760,Church Ministries,40000,59900
+761,Communicative Disorders,47400,59800
+761,Social Science Teacher Education,45400,59800
+761,Wildlife Biology,42900,59800
+764,Community Development,44600,59400
+764,Psychology & Human Services,35600,59400
+766,Athletic Training,42100,59300
+767,Biblical Studies,40500,59000
+768,Biblical Studies & Practical Ministries,36400,58900
+768,Counseling Psychology,42700,58900
+768,Recreational Studies,42100,58900
+768,Teaching,42000,58900
+772,Home Economics,41800,58700
+772,Library & Information Science,48200,58700
+774,Human Development & Family Studies,40300,58600
+774,Tourism & Travel,42200,58600
+776,Landscape Design,49000,58500
+777,Ceramics,42200,58300
+777,Clinical Social Work (CSW),43500,58300
+777,Parks & Recreation Management,42700,58300
+780,Pastoral Ministry,38700,58000
+780,Vocal Performance,42600,58000
+782,Art Teacher Education,40300,57500
+782,Bible Studies & Theology,40000,57500
+784,Forensic Accounting,48300,57200
+785,Communication Sciences & Disorders,43300,57100
+785,Legal Assistant Studies,38100,57100
+787,Special Education,41300,57000
+788,Conservation Biology,42800,56900
+789,Family Studies,39200,56800
+790,Christian Ministry,38100,56400
+790,Speech & Hearing,43300,56400
+792,Health and Human Services,43500,56300
+793,Musical Theatre,43500,56100
+794,History Teacher Education,47700,55600
+795,Developmental Psychology,38200,55000
+796,Therapeutic Recreation,39500,54900
+797,Applied Behavioral Science,40500,54600
+797,Community & Human Services,42400,54600
+797,Social Work (SW),38600,54600
+800,Office Administration,38700,54500
+801,Ministry,36700,54300
+801,Family & Community Services,42200,54300
+803,Youth Ministry,37400,54200
+804,Elementary Education,40000,53800
+805,Voice & Opera,34500,53300
+806,Christian Education,38700,53200
+806,Conflict Resolution,44400,53200
+808,Baking & Pastry Arts,37500,53000
+808,Human Services Management,45600,53000
+810,Hospitality & The Culinary Arts,38800,52900
+811,Human Services (HS),38700,52500
+812,Counseling,39900,51700
+813,Recreational Therapy,38400,51600
+814,Child Development,37400,51400
+815,Educational Psychology,36900,51200
+816,Middle School Education,41200,50800
+817,Mental Health Counseling,36100,50000
+818,Early Childhood & Elementary Education,38000,48400
+819,Equine Studies,35700,47100
+820,Addiction Studies,38000,47000
+821,Child & Family Studies,36400,46500
+822,Rehabilitation Counseling,39200,46400
+823,Outdoor Education,37400,46300
+824,Early Childhood Education,36100,45400
+825,Mental Health,36900,45000
+826,Medical Assisting,36000,44800
+827,Metalsmithing,40000,40300
